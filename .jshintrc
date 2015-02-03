@@ -1,0 +1,29 @@
+{
+  "passfail": false,
+  "maxerr": 50000,
+
+  "predef": [
+    "require",
+    "module",
+    "exports"
+  ],
+
+  "browser": false,
+  "jquery": false,
+  "devel": false,
+
+  "curly": true,
+  "forin": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "noempty": true,
+  "nonew": true,
+  "undef": true,
+  "trailing": true,
+  "indent": 4,
+  "unused": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "plusplus": true
+}

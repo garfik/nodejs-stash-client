@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-stash-client",
+  "version": "0.0.1",
+  "description": "REST Client for Atlassian's Stash",
+  "author": "Kulikov Dmitry <garf.freeman@gmail.com> (http://www.garfik.ru)",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "lib/stash-client",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garfik/stash-client.git"
+  },
+  "bugs": {
+    "url": "http://github.com/garfik/stash-client/issues"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "q": "^1.1.2",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {}
+}
