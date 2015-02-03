@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/garfik/stash-client.git"
+    "url": "https://github.com/garfik/nodejs-stash-client.git"
   },
   "bugs": {
-    "url": "http://github.com/garfik/stash-client/issues"
+    "url": "https://github.com/garfik/nodejs-stash-client/issues"
   },
   "license": "BSD",
   "dependencies": {
