@@ -8,7 +8,7 @@ NodeJS REST Client for Atlassian's Stash
 
 Инициализируем клиент
 
-    Stash = require('./lib/stash-client'),
+    Stash = require('nodejs-stash-client'),
     client = new Stash({
         url: 'http://stash:7990',
         credentials: 'login:password'
